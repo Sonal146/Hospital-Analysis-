@@ -2,6 +2,9 @@
 
 This repository contains a comprehensive healthcare data analysis project conducted using four powerful tools—Excel, Power BI, Tableau, and SQL. The objective of this project is to derive actionable insights that can help optimize hospital operations, improve patient care, and enhance financial performance.
 
+https://github.com/user-attachments/assets/534ff415-decf-4ae0-87c7-9df5bf463e66
+
+
 Through data-driven analysis and interactive dashboards, this project aims to answer critical business questions and provide healthcare stakeholders with the information they need to make informed decisions.
 
 # Project Overview
